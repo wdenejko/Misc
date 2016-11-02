@@ -1,0 +1,93 @@
+@relation 'books-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-C-N0-S-stemmerweka.core.stemmers.SnowballStemmer-M2-O-stopwordsH:\\rzglebianie\\lab11\\stop-words_english_1_en.txt-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute - numeric
+@attribute 2 numeric
+@attribute 3D numeric
+@attribute Apples numeric
+@attribute Apps numeric
+@attribute Author numeric
+@attribute C++ numeric
+@attribute Chrome numeric
+@attribute Cocoa numeric
+@attribute HTML numeric
+@attribute JavaScript numeric
+@attribute Kannada numeric
+@attribute MySQL numeric
+@attribute PostgreSQL numeric
+@attribute Ruby numeric
+@attribute XAMPP numeric
+@attribute a numeric
+@attribute advanced numeric
+@attribute adventure numeric
+@attribute application numeric
+@attribute applications numeric
+@attribute apps numeric
+@attribute author numeric
+@attribute book numeric
+@attribute brave numeric
+@attribute build numeric
+@attribute code numeric
+@attribute create numeric
+@attribute database numeric
+@attribute deep numeric
+@attribute design numeric
+@attribute development numeric
+@attribute discover numeric
+@attribute experience numeric
+@attribute eyes numeric
+@attribute faced numeric
+@attribute father numeric
+@attribute features numeric
+@attribute financial numeric
+@attribute framework numeric
+@attribute games numeric
+@attribute goal numeric
+@attribute guide numeric
+@attribute hands-on numeric
+@attribute heart numeric
+@attribute iOS numeric
+@attribute important numeric
+@attribute including numeric
+@attribute industry numeric
+@attribute integrated numeric
+@attribute language numeric
+@attribute learn numeric
+@attribute libraries numeric
+@attribute life numeric
+@attribute metaprogramming numeric
+@attribute mind numeric
+@attribute model numeric
+@attribute problems numeric
+@attribute programmers numeric
+@attribute programming numeric
+@attribute projects numeric
+@attribute related numeric
+@attribute show numeric
+@attribute simple numeric
+@attribute time numeric
+@attribute tools numeric
+@attribute understand numeric
+@attribute village numeric
+@attribute wanted numeric
+@attribute web numeric
+@attribute work numeric
+@attribute writing numeric
+@attribute youll numeric
+@attribute young numeric
+@attribute youre numeric
+
+@data
+{16 3,23 1,24 1,34 1,46 1}
+{16 1,35 1,41 1,55 1,73 2}
+{11 1,16 3,24 1,35 1,41 1,53 1,56 1,64 1,67 3}
+{16 2,64 1}
+{16 3,34 1,44 1,55 1,73 1}
+{16 1,18 2,36 2,68 2}
+{12 2,15 2,27 1,28 4,30 1,49 2,61 2}
+{6 2,16 1,22 1,23 3,33 1,38 5,42 1,43 1,46 1,47 1,48 2,50 1,52 1,57 3,58 2,59 2,70 1,71 1}
+{0 1,3 2,8 2,16 1,21 1,31 2,32 1,39 1,42 1,45 2,47 1,50 1,51 1,59 1,65 1,66 1,72 1}
+{13 2,16 3,19 1,23 1,26 1,28 1,31 1,37 1,39 1,52 1,62 1}
+{1 2,14 3,16 1,17 1,23 1,29 1,32 1,37 1,47 1,50 1,51 1,54 3,56 1,60 1,66 1,70 1,72 1,74 1}
+{0 3,2 3,9 1,16 2,17 1,20 1,22 1,23 1,33 1,40 1,51 1,52 1,61 1,63 1,65 1,69 1,72 1}
+{4 2,5 1,7 3,9 1,10 1,16 1,21 2,23 1,25 1,27 1,30 1,43 1,45 1,51 1,69 1,70 2,72 1,74 1}
+{5 1,10 4,11 1,16 2,19 1,20 1,21 1,25 2,26 2,29 1,33 1,40 1,43 1,44 1,50 3,53 1,59 1,60 2,62 1,63 2,69 1,71 1}

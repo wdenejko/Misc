@@ -1,0 +1,93 @@
+@relation 'books-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-C-T-I-N0-S-stemmerweka.core.stemmers.SnowballStemmer-M2-O-stopwordsH:\\rzglebianie\\lab11\\stop-words_english_1_en.txt-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute - numeric
+@attribute 2 numeric
+@attribute 3D numeric
+@attribute Apples numeric
+@attribute Apps numeric
+@attribute Author numeric
+@attribute C++ numeric
+@attribute Chrome numeric
+@attribute Cocoa numeric
+@attribute HTML numeric
+@attribute JavaScript numeric
+@attribute Kannada numeric
+@attribute MySQL numeric
+@attribute PostgreSQL numeric
+@attribute Ruby numeric
+@attribute XAMPP numeric
+@attribute a numeric
+@attribute advanced numeric
+@attribute adventure numeric
+@attribute application numeric
+@attribute applications numeric
+@attribute apps numeric
+@attribute author numeric
+@attribute book numeric
+@attribute brave numeric
+@attribute build numeric
+@attribute code numeric
+@attribute create numeric
+@attribute database numeric
+@attribute deep numeric
+@attribute design numeric
+@attribute development numeric
+@attribute discover numeric
+@attribute experience numeric
+@attribute eyes numeric
+@attribute faced numeric
+@attribute father numeric
+@attribute features numeric
+@attribute financial numeric
+@attribute framework numeric
+@attribute games numeric
+@attribute goal numeric
+@attribute guide numeric
+@attribute hands-on numeric
+@attribute heart numeric
+@attribute iOS numeric
+@attribute important numeric
+@attribute including numeric
+@attribute industry numeric
+@attribute integrated numeric
+@attribute language numeric
+@attribute learn numeric
+@attribute libraries numeric
+@attribute life numeric
+@attribute metaprogramming numeric
+@attribute mind numeric
+@attribute model numeric
+@attribute problems numeric
+@attribute programmers numeric
+@attribute programming numeric
+@attribute projects numeric
+@attribute related numeric
+@attribute show numeric
+@attribute simple numeric
+@attribute time numeric
+@attribute tools numeric
+@attribute understand numeric
+@attribute village numeric
+@attribute wanted numeric
+@attribute web numeric
+@attribute work numeric
+@attribute writing numeric
+@attribute youll numeric
+@attribute young numeric
+@attribute youre numeric
+
+@data
+{16 0.102735,23 0.587302,24 1.348802,34 1.348802,46 1.348802}
+{16 0.051368,35 1.348802,41 1.348802,55 1.348802,73 2.137801}
+{11 1.348802,16 0.102735,24 1.348802,35 1.348802,41 1.348802,53 1.348802,56 1.348802,64 1.348802,67 3.65851}
+{16 0.081416,64 1.348802}
+{16 0.102735,34 1.348802,44 1.348802,55 1.348802,73 1.348802}
+{16 0.051368,18 2.899301,36 2.899301,68 2.899301}
+{12 2.899301,15 2.899301,27 1.348802,28 3.131822,30 1.348802,49 2.899301,61 2.137801}
+{6 2.899301,16 0.051368,22 1.348802,23 1.174604,33 1.067755,38 4.728556,42 1.348802,43 1.067755,46 1.348802,47 1.067755,48 2.899301,50 0.868349,52 1.067755,57 3.65851,58 2.899301,59 1.692352,70 1.067755,71 1.348802}
+{0 1.348802,3 2.899301,8 2.899301,16 0.051368,21 1.067755,31 2.137801,32 1.348802,39 1.348802,42 1.348802,45 2.137801,47 1.067755,50 0.868349,51 0.868349,59 1.067755,65 1.348802,66 1.348802,72 0.868349}
+{13 2.899301,16 0.102735,19 1.348802,23 0.587302,26 1.348802,28 1.348802,31 1.348802,37 1.348802,39 1.348802,52 1.067755,62 1.348802}
+{1 2.899301,14 3.65851,16 0.051368,17 1.348802,23 0.587302,29 1.348802,32 1.348802,37 1.348802,47 1.067755,50 0.868349,51 0.868349,54 3.65851,56 1.348802,60 1.348802,66 1.348802,70 1.067755,72 0.868349,74 1.348802}
+{0 2.697604,2 3.65851,9 1.348802,16 0.081416,17 1.348802,20 1.348802,22 1.348802,23 0.587302,33 1.067755,40 1.348802,51 0.868349,52 1.067755,61 1.348802,63 1.348802,65 1.348802,69 1.067755,72 0.868349}
+{4 2.899301,5 1.348802,7 3.65851,9 1.348802,10 1.348802,16 0.051368,21 1.692352,23 0.587302,25 1.348802,27 1.348802,30 1.348802,43 1.067755,45 1.348802,51 0.868349,69 1.067755,70 1.692352,72 0.868349,74 1.348802}
+{5 1.348802,10 3.131822,11 1.348802,16 0.081416,19 1.348802,20 1.348802,21 1.067755,25 2.137801,26 2.137801,29 1.348802,33 1.067755,40 1.348802,43 1.067755,44 1.348802,50 1.736698,53 1.348802,59 1.067755,60 2.137801,62 1.348802,63 2.137801,69 1.067755,71 1.348802}

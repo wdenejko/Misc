@@ -1,0 +1,93 @@
+@relation 'books-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-C-I-N0-S-stemmerweka.core.stemmers.SnowballStemmer-M2-O-stopwordsH:\\rzglebianie\\lab11\\stop-words_english_1_en.txt-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute - numeric
+@attribute 2 numeric
+@attribute 3D numeric
+@attribute Apples numeric
+@attribute Apps numeric
+@attribute Author numeric
+@attribute C++ numeric
+@attribute Chrome numeric
+@attribute Cocoa numeric
+@attribute HTML numeric
+@attribute JavaScript numeric
+@attribute Kannada numeric
+@attribute MySQL numeric
+@attribute PostgreSQL numeric
+@attribute Ruby numeric
+@attribute XAMPP numeric
+@attribute a numeric
+@attribute advanced numeric
+@attribute adventure numeric
+@attribute application numeric
+@attribute applications numeric
+@attribute apps numeric
+@attribute author numeric
+@attribute book numeric
+@attribute brave numeric
+@attribute build numeric
+@attribute code numeric
+@attribute create numeric
+@attribute database numeric
+@attribute deep numeric
+@attribute design numeric
+@attribute development numeric
+@attribute discover numeric
+@attribute experience numeric
+@attribute eyes numeric
+@attribute faced numeric
+@attribute father numeric
+@attribute features numeric
+@attribute financial numeric
+@attribute framework numeric
+@attribute games numeric
+@attribute goal numeric
+@attribute guide numeric
+@attribute hands-on numeric
+@attribute heart numeric
+@attribute iOS numeric
+@attribute important numeric
+@attribute including numeric
+@attribute industry numeric
+@attribute integrated numeric
+@attribute language numeric
+@attribute learn numeric
+@attribute libraries numeric
+@attribute life numeric
+@attribute metaprogramming numeric
+@attribute mind numeric
+@attribute model numeric
+@attribute problems numeric
+@attribute programmers numeric
+@attribute programming numeric
+@attribute projects numeric
+@attribute related numeric
+@attribute show numeric
+@attribute simple numeric
+@attribute time numeric
+@attribute tools numeric
+@attribute understand numeric
+@attribute village numeric
+@attribute wanted numeric
+@attribute web numeric
+@attribute work numeric
+@attribute writing numeric
+@attribute youll numeric
+@attribute young numeric
+@attribute youre numeric
+
+@data
+{16 0.222324,23 0.847298,24 1.94591,34 1.94591,46 1.94591}
+{16 0.074108,35 1.94591,41 1.94591,55 1.94591,73 3.89182}
+{11 1.94591,16 0.222324,24 1.94591,35 1.94591,41 1.94591,53 1.94591,56 1.94591,64 1.94591,67 7.917172}
+{16 0.148216,64 1.94591}
+{16 0.222324,34 1.94591,44 1.94591,55 1.94591,73 1.94591}
+{16 0.074108,18 5.278115,36 5.278115,68 5.278115}
+{12 5.278115,15 5.278115,27 1.94591,28 7.783641,30 1.94591,49 5.278115,61 3.89182}
+{6 5.278115,16 0.074108,22 1.94591,23 2.541894,33 1.540445,38 13.195287,42 1.94591,43 1.540445,46 1.94591,47 1.540445,48 5.278115,50 1.252763,52 1.540445,57 7.917172,58 5.278115,59 3.08089,70 1.540445,71 1.94591}
+{0 1.94591,3 5.278115,8 5.278115,16 0.074108,21 1.540445,31 3.89182,32 1.94591,39 1.94591,42 1.94591,45 3.89182,47 1.540445,50 1.252763,51 1.252763,59 1.540445,65 1.94591,66 1.94591,72 1.252763}
+{13 5.278115,16 0.222324,19 1.94591,23 0.847298,26 1.94591,28 1.94591,31 1.94591,37 1.94591,39 1.94591,52 1.540445,62 1.94591}
+{1 5.278115,14 7.917172,16 0.074108,17 1.94591,23 0.847298,29 1.94591,32 1.94591,37 1.94591,47 1.540445,50 1.252763,51 1.252763,54 7.917172,56 1.94591,60 1.94591,66 1.94591,70 1.540445,72 1.252763,74 1.94591}
+{0 5.83773,2 7.917172,9 1.94591,16 0.148216,17 1.94591,20 1.94591,22 1.94591,23 0.847298,33 1.540445,40 1.94591,51 1.252763,52 1.540445,61 1.94591,63 1.94591,65 1.94591,69 1.540445,72 1.252763}
+{4 5.278115,5 1.94591,7 7.917172,9 1.94591,10 1.94591,16 0.074108,21 3.08089,23 0.847298,25 1.94591,27 1.94591,30 1.94591,43 1.540445,45 1.94591,51 1.252763,69 1.540445,70 3.08089,72 1.252763,74 1.94591}
+{5 1.94591,10 7.783641,11 1.94591,16 0.148216,19 1.94591,20 1.94591,21 1.540445,25 3.89182,26 3.89182,29 1.94591,33 1.540445,40 1.94591,43 1.540445,44 1.94591,50 3.758289,53 1.94591,59 1.540445,60 3.89182,62 1.94591,63 3.89182,69 1.540445,71 1.94591}

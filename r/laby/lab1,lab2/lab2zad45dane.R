@@ -1,0 +1,8 @@
+lody <- read.csv("lody.csv")
+churn <- read.csv("churnPl.csv")
+source("lab2discretize.r")
+source("lab2zad4.r")
+lody_sp <- discretize(lody$liczba_sp,3)
+temp <- discretize(lody$temp,2)
+count <- table(temp,lody_sp)
+corrplot(count,"liczba sprzedanych lodów","temperatura")
